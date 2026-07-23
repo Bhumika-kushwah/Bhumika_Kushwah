@@ -178,9 +178,9 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhumika_Kushwah&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhumika-kushwah&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika_KushwahE&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-kushwah&layout=compact&theme=tokyonight"/>
 
 </p>
 
