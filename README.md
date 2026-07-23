@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="images/profile.jpg" width="220" style="border-radius:50%;">
+<img src=""C:\Users\raash\Downloads\Mobile Devices\file_00000000781471fd9568f9cb60c91c1e.png"" width="220" style="border-radius:50%;">
 </p>
 
 ---
@@ -192,7 +192,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumika_Kushwah&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumika_Kushwah &theme=tokyonight"/>
 
 </p>
 
@@ -202,7 +202,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhumika_Kushwah&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhumika_Kushwah &theme=tokyonight&margin-w=10"/>
 
 </p>
 
@@ -212,7 +212,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumika_Kushwah&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumika_Kushwah &theme=tokyo-night"/>
 
 </p>
 
