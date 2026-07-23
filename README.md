@@ -178,21 +178,21 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhumika_Kushwah&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika_KushwahE&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Bhumika_Kushwah&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumika_Kushwah&theme=tokyonight"/>
 
 </p>
 
@@ -202,7 +202,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhumika_Kushwah&theme=tokyonight&margin-w=10"/>
 
 </p>
 
@@ -212,7 +212,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumika_Kushwah&theme=tokyo-night"/>
 
 </p>
 
@@ -222,7 +222,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 📧 **Email:** bhumikakushwah18@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/bhumikakushwah
+💼 **LinkedIn:** https://www.linkedin.com/in/bhumika-kushwah-64ab3125a/
 
 🐙 **GitHub:** https://github.com/Bhumika-kushwah
 
