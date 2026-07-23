@@ -196,17 +196,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhumika-kushwah&theme=tokyonight&margin-w=10"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
