@@ -186,13 +186,13 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bhumika_Kushwah&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Bhumika-kushwah&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumika_Kushwah &theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumika-kushwah&theme=tokyonight"/>
 
 </p>
 
@@ -202,7 +202,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhumika_Kushwah &theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhumika-kushwah&theme=tokyonight&margin-w=10"/>
 
 </p>
 
@@ -212,7 +212,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumika_Kushwah &theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumika-kushwah&theme=tokyo-night"/>
 
 </p>
 
