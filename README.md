@@ -8,9 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Business+Intelligence+Enthusiast;Machine+Learning+Learner;Open+to+Work+🚀"/>
 </p>
 
-<p align="center">
-<img src=""C:\Users\raash\Downloads\Mobile Devices\file_00000000781471fd9568f9cb60c91c1e.png"" width="220" style="border-radius:50%;">
-</p>
 
 ---
 
