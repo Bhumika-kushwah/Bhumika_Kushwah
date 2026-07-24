@@ -5,30 +5,31 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Business+Intelligence+Enthusiast;Machine+Learning+Learner;Open+to+Work+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Business+Intelligence+Developer;Open+to+Work+🚀"/>
 </p>
-
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+🎓 **B.Tech in Artificial Intelligence & Machine Learning**
 
-📊 Passionate about Data Analytics, Business Intelligence & Data Science
+📊 Passionate about **Data Analytics, Business Intelligence, Data Science, and Machine Learning.**
 
-💡 I enjoy transforming raw data into meaningful business insights using SQL, Python and Power BI.
+💡 I enjoy transforming raw data into meaningful business insights through **SQL, Python, Power BI, Tableau, Statistics, and Machine Learning.**
 
-📈 Built **5+ End-to-End Analytics Projects**
+📈 Built **5+ End-to-End Analytics Dashboards** and completed **10+ Exploratory Data Analysis (EDA) Projects** using real-world datasets.
 
-🌱 Currently Learning
+🤖 Hands-on experience with **Scikit-Learn** and **TensorFlow** for Machine Learning and Deep Learning.
 
-- Machine Learning
+🌱 Currently exploring
+
 - Deep Learning
-- Advanced SQL
-- Statistics
+- Neural Networks
+- Model Deployment
+- Advanced Machine Learning
 
-🟢 **Open to Internship & Full-Time Opportunities**
+🟢 **Actively Open to Internship & Full-Time Opportunities**
 
 ---
 
@@ -40,41 +41,68 @@
 | Business Analyst | Internship / Full-Time |
 | BI Analyst | Internship / Full-Time |
 | Junior Data Scientist | Internship / Full-Time |
+| AI/ML Intern | Internship |
 | Analytics Consultant | Internship / Full-Time |
 
 📍 Remote • Hybrid • On-site
 
 ---
 
-# 🚀 What I Do
+# 🚀 Technical Skills
 
-| 📊 Data Analysis | 📈 Dashboards | 🛢 SQL | 🤖 Machine Learning |
-|-----------------|--------------|--------|--------------------|
-| Data Cleaning | Power BI | MySQL | Scikit-Learn |
-| EDA | Tableau | SQL Queries | ML Models |
-| Business Insights | Excel | Database Design | Prediction |
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,git,github,vscode"/>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+## 📊 Data Analytics & BI
 
-### Programming
+- SQL (MySQL)
+- Power BI
+- Tableau
+- Microsoft Excel
+- Power Query
+- DAX
+- Statistics
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Data Visualization
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode"/>
-</p>
+---
 
-### Analytics & Visualization
+## 🤖 Machine Learning
 
-- 📊 Power BI
-- 📈 Tableau
-- 📉 Microsoft Excel
-- 📊 SQL
-- 📈 Statistics
-- 📊 Data Cleaning
-- 📉 EDA
+- Supervised Learning
+- Unsupervised Learning
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Naive Bayes
+- K-Means Clustering
+- Principal Component Analysis (PCA)
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+- Scikit-Learn
 
-### Python Libraries
+---
+
+## 🧠 Deep Learning
+
+- TensorFlow
+- Artificial Neural Networks (ANN)
+- Deep Learning Fundamentals
+
+---
+
+## 🐍 Python Libraries
 
 - Pandas
 - NumPy
@@ -82,6 +110,17 @@
 - Seaborn
 - Plotly
 - Scikit-Learn
+- TensorFlow
+
+---
+
+## 🛠 Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
 
 ---
 
@@ -89,75 +128,107 @@
 
 ```text
 SQL                     ████████████████░░   80%
+
 Power BI                █████████████████░   85%
-Python                  ████████████████░░   80%
-Statistics              ████████████████░░   80%
-Machine Learning        ████████████████░░   80%
+
 Excel                   █████████████████░   85%
+
+Python                  ████████████████░░   80%
+
+Machine Learning        ████████████████░░   80%
+
+Statistics              ████████████████░░   80%
+
 R Programming           ██████████████░░░░   70%
+
 Tableau                 ██████████████░░░░   70%
 ```
 
 ---
 
-# 📊 Featured Projects
+# 📚 Core Competencies
 
-## 🍕 Pizza Sales Analysis Dashboard
+✅ Data Analysis
 
-📊 Power BI • DAX • Excel
+✅ Business Intelligence
 
-- KPI Dashboard
-- Sales Analysis
-- Business Insights
+✅ Dashboard Development
 
-🔗 Repository:
-https://github.com/Bhumika-kushwah/pizza-sales-dashboard
+✅ Data Visualization
 
----
+✅ SQL Query Optimization
 
-## ✈️ Indigo Airline Flight Analysis
+✅ Data Cleaning
 
-🛢 SQL • MySQL • Data Modeling
+✅ Exploratory Data Analysis (EDA)
 
-- Database Design
-- Route Analysis
-- Passenger Trends
+✅ Statistical Analysis
 
-🔗 Repository:
-https://github.com/Bhumika-kushwah/airline-flight-analysis
+✅ Predictive Analytics
 
----
+✅ Feature Engineering
 
-## 🌍 COVID-19 Global Data Analysis
+✅ Machine Learning
 
-🐍 Python • Pandas • Matplotlib
-
-- Data Cleaning
-- EDA
-- Trend Analysis
-
-🔗 Repository:
-https://github.com/Bhumika-kushwah/covid19-analysis
+✅ Deep Learning
 
 ---
 
-## 🍎 Apple Retail Dashboard
+# 🚀 Featured Projects
 
-📊 Power BI • Power Query • DAX
+## 🍎 Apple Retail Warranty Analytics Dashboard
 
-- Warranty Analysis
-- KPI Dashboard
-- Business Intelligence
+📊 **Power BI • DAX • Power Query**
+
+✔ Interactive Dashboard
+
+✔ Warranty Analysis
+
+✔ Sales Insights
+
+✔ KPI Tracking
+
+🔗 Repository
+
+https://github.com/Bhumika-kushwah/Apple-Retail-Warranty-Analytics-Dashboard
 
 ---
 
 ## 🌧 India Rainfall Trend Analysis
 
-🐍 Python • R • Power BI
+🐍 **Python • Power BI • Statistics**
 
-- Time Series
-- Climate Analysis
-- Forecasting
+✔ Rainfall Trend Analysis
+
+✔ Data Cleaning
+
+✔ Visualization
+
+✔ Forecasting Insights
+
+🔗 Repository
+
+https://github.com/Bhumika-kushwah/india-rainfall-trend-analysis
+
+---
+
+## 📈 Exploratory Data Analysis Projects
+
+🐍 **Python • Pandas • NumPy • Matplotlib • Seaborn**
+
+✔ Completed **10+ EDA Projects**
+
+✔ Data Cleaning
+
+✔ Missing Value Handling
+
+✔ Outlier Detection
+
+✔ Feature Engineering
+
+✔ Visualization
+
+✔ Business Insights
 
 ---
 
@@ -193,7 +264,7 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 </p>
 
-
+---
 
 # 📈 Contribution Graph
 
@@ -202,6 +273,12 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumika-kushwah&theme=tokyo-night"/>
 
 </p>
+
+---
+
+# 🎯 Career Objective
+
+I am passionate about solving real-world business problems using data. My goal is to build impactful analytics solutions through Data Analysis, Business Intelligence, Machine Learning, and Artificial Intelligence while continuously learning and contributing to innovative projects.
 
 ---
 
@@ -217,14 +294,14 @@ https://github.com/Bhumika-kushwah/covid19-analysis
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thank you for visiting my profile! ⭐
 
-Let's connect and build data-driven solutions together.
+Let's connect, collaborate, and build data-driven solutions together.
 
 </h3>
 
 <p align="center">
 
-🚀 Open to Work • Data Analyst • Business Intelligence • Data Science
+🚀 Open to Work • Data Analyst • Business Intelligence • Data Science • Machine Learning
 
 </p>
