@@ -176,6 +176,45 @@ Tableau                 ██████████████░░░░  
 
 # 🚀 Featured Projects
 
+## 🍕 Pizza Sales Analysis Dashboard
+
+📊 Power BI • DAX • Excel
+
+- KPI Dashboard
+- Sales Analysis
+- Business Insights
+
+🔗 Repository:
+https://github.com/Bhumika-kushwah/pizza-sales-dashboard
+
+---
+
+## ✈️ Indigo Airline Flight Analysis
+
+🛢 SQL • MySQL • Data Modeling
+
+- Database Design
+- Route Analysis
+- Passenger Trends
+
+🔗 Repository:
+https://github.com/Bhumika-kushwah/airline-flight-analysis
+
+---
+
+## 🌍 COVID-19 Global Data Analysis
+
+🐍 Python • Pandas • Matplotlib
+
+- Data Cleaning
+- EDA
+- Trend Analysis
+
+🔗 Repository:
+https://github.com/Bhumika-kushwah/covid19-analysis
+
+---
+
 ## 🍎 Apple Retail Warranty Analytics Dashboard
 
 📊 **Power BI • DAX • Power Query**
